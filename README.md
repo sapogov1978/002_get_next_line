@@ -10,3 +10,27 @@
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sapogov1978/002_get_next_line?color=blue" />
 </p>
 
+## Usage
+
+### Requirements
+
+The project is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
+
+### Instructions
+
+**1. Compiling**
+
+To compile the library, run:
+
+```shell
+$ cd [path/to/project] && make
+```
+
+**2. Running**
+
+To use the functions:
+
+```shell
+./gnl test_cases/[any_case]
+```
+Also some extrimal cases collected in [`narco.tar.gz`](test_cases/narco.tar.gz) archive
