@@ -18,7 +18,7 @@ The project is written in C language and thus needs the **`gcc` compiler** and s
 
 **1. Compiling**
 
-To compile the library, run:
+To compile the project, run:
 
 ```shell
 $ cd [path/to/project] && make
